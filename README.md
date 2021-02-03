@@ -10,6 +10,6 @@ Developers also don't want browsers to have to load enourmous files which can sl
 
 Instead, enourmous files can be split into smaller ones which reduce the work the browser has to perform at any given time. 
 
-The browser can load the features it needs at loading time and delay the loading of additional features until needed based on a user's activity; this is called lazy loading [Lazy Loading](https://developer.mozilla.org/en-US/docs/Glossary/Lazy_load).
+The browser can load the features it needs at loading time and delay the loading of additional features until needed based on a user's activity; this is called [lazy loading](https://developer.mozilla.org/en-US/docs/Glossary/Lazy_load).
 
 Webpack is a common way to split up code as it creates bundles of files that can be dynamically loaded at runtime. 
